@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+ipykernel
+
+# Optional (Tier 3+)
+tensorflow
+keras
+
+# Optional (Tier 4 RAG later)
+# openai
+# tiktoken
+# faiss-cpu
+# chromadb
